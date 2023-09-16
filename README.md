@@ -1,6 +1,7 @@
 # dualcamsapp
 
-A new Flutter project.
+GOAL = Doing the best possible to do DUAL CAM PICS same time, in flutter (with camera package).
+- No already made package exist with flutter yet to do dual cams same time.
 
 ## Getting Started
 
